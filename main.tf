@@ -22,7 +22,7 @@ provider "azurerm" {
 }
 
 provider "cloudinit" {
-  # Configuration options
+  # Configuration optionss
 }
 
 variable "labelPrefix" {
